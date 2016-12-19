@@ -1,0 +1,2 @@
+# HelloMavenWorld
+Maven structure project
